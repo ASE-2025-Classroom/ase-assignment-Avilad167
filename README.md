@@ -12,7 +12,7 @@ I will discuss how I implemented the more difficult elements (like the parser, i
 Keep your progress up to date below. Put "DONE" after each section, when you have done it.  
 The number in brackets represents the component that each element contributes to.
 # Checkpoint
-#### 1 Version Control (1) 
+#### 1 Version Control (1) (DONE)
 	At least two documented commits to provided on GitHub Classroom BEFORE 12pm 7th October.
 	At least 5 documented commits.
 	Readme.md file filled in correctly.
